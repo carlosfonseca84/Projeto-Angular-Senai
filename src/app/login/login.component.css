@@ -1,0 +1,15 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 700px;
+  background-image: url(https://images.pexels.com/photos/3945683/pexels-photo-3945683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+}
+#section-login {
+  height: 100%;
+  width: 400px;
+  border-radius: 20px;
+  border: 3px solid black;
+  padding: 10px 20px;
+}
